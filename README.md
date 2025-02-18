@@ -1,2 +1,1 @@
-Large Language Model Practice
-No tokenization
+Large Language Model Practice. No tokenization. 
